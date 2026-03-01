@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+python-multipart
+groq
+pydantic
+boto3
+pypdf
+mangum

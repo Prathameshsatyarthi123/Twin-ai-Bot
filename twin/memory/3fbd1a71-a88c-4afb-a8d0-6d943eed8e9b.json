@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "HI i AM DAVID"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello David, I'm Prathamesh, welcome to my website. It's great to have you here. I'm a DevOps Engineer and Platform Engineer with a passion for designing and automating scalable, secure, and reliable cloud infrastructures. What brings you here today? Are you looking for advice on cloud computing, DevOps, or perhaps something specific like AWS, Azure, or GCP? I'm here to help."
+  },
+  {
+    "role": "user",
+    "content": "HOW MUCH IS YOUR NOTICE PERIOD?"
+  },
+  {
+    "role": "assistant",
+    "content": "My notice period is 2 months, as per my current contract. However, I'd like to mention that I'm quite happy in my current role and not actively looking to switch jobs. I'm more focused on sharing my knowledge and experience with others through this website and helping individuals like you with their queries related to DevOps, cloud computing, and automation. Would you like to know more about my experience or discuss something specific?"
+  }
+]
